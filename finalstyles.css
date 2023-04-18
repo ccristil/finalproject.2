@@ -1,0 +1,53 @@
+p {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header {
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: tan;
+}
+body {
+    background-color: #666666;
+}
+a:link {
+    color: blue
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: tan
+    ;
+}
+img {
+    padding: 10px;
+}
+link {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.lists{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.container{
+    width: 590px;
+    height: 335px;
+    padding: 20px;
+}
+.youtube{
+    display: flex;
+}
+.skills{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding-top: 15px;
+}
+.achievements{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding-top: 15px;
+}
+.tableauPlaceholder{
+    padding-top: 15px;
+}
